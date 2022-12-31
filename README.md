@@ -1,4 +1,9 @@
+# Happy New Year - 2023!
+
 ### Hi there 👋
+
+I'm Sai Nishwanth, Currently doing my B.Tech in CSE!
+I hope to contribute to a lot of Open Source projects in 2023.
 
 <!--
 **sainishwanth/sainishwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
