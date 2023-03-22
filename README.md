@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sai Nishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainishwanth)](https://github.com/anuraghazra/github-readme-stats)
+[![Sai Nishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainishwanth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
