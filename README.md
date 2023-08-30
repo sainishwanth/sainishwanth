@@ -17,4 +17,4 @@
 
 [![Sai Nishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainishwanth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainishwanth&hide=javascript,html,typescript,css,Emacs_Lisp,c&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainishwanth&layout=donut&hide=javascript,html,typescript,css,Emacs_Lisp,c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
